@@ -19,6 +19,8 @@ public class Array2D {
 		for (int[] a : arr) {
 			for (int i : a ) {
 				System.out.println(i);
+				System.out.println(i);
+
 				//System.out.println(i);	
 			}	
 		}	
